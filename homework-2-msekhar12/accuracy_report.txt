@@ -1,0 +1,4 @@
+Test f1 score:0.7580645161290323
+Test precision score:0.7580645161290323
+Test recall score:0.7580645161290323
+Test accuracy score:0.8324022346368715
